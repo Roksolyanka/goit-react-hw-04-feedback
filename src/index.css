@@ -9,6 +9,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: url('../assets/coffee.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 code {
